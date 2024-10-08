@@ -29,10 +29,11 @@ This application uses the GitHub API to access repository contents, the langdete
 git clone https://github.com/yourusername/code-optimization-recommender.git
 cd code-optimization-recommender
 pip install -r requirements.txt
-
+```
 ## Run
 
-To run the application, use the following command:
+The application uses Streamlit, use the following command to run it:
 
 ```bash
 streamlit run app.py
+```
