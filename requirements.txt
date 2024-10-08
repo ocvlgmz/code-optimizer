@@ -6,4 +6,7 @@ openai==0.28
 anthropic
 ollama
 python-dotenv
+<<<<<<< HEAD
 FPDF
+=======
+>>>>>>> d3d233e71a41424beb70f0ef674bbc267ba24d08
