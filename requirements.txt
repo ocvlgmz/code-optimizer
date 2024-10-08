@@ -1,0 +1,8 @@
+streamlit
+requests
+langdetect
+langchain
+openai==0.28
+anthropic
+ollama
+python-dotenv
