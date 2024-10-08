@@ -3,14 +3,8 @@ import openai
 import requests
 from langdetect import detect
 import os
-<<<<<<< HEAD
 from dotenv import load_dotenv
 from fpdf import FPDF
-=======
-
-from dotenv import load_dotenv
-import os
->>>>>>> d3d233e71a41424beb70f0ef674bbc267ba24d08
 
 # Load environment variables from .env file
 load_dotenv()
