@@ -26,7 +26,7 @@ This application uses the GitHub API to access repository contents, the langdete
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/code-optimization-recommender.git
+git clone https://github.com/ocvlgmz/code-optimizer.git
 cd code-optimization-recommender
 pip install -r requirements.txt
 ```
